@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background-color: #eed25a;
+  background-color: #EFD75E;
   height: 100%;
   font-family: 'Roboto', sans-serif;
   
@@ -580,7 +580,7 @@ hr{
     margin-top: 25px;
     margin-bottom: 25px;
     border: 0;
-    border-top: 2px solid #eed25a;
+    border-top: 2px solid #DBC153;
 }
 
 
